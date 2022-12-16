@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="18" passed="11" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-23T19:58:58 IST" name="Suite" finished-at="2022-08-23T19:59:09 IST" duration-ms="10946">
+    <groups>
+    </groups>
+    <test started-at="2022-08-23T19:58:58 IST" name="Test" finished-at="2022-08-23T19:59:09 IST" duration-ms="10946">
+      <class name="com.Trello.TrelloCard">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:04 IST" name="startTest" finished-at="2022-08-23T19:59:04 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Trello.TrelloCard.CreateCard() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:04 IST" name="setupTest" finished-at="2022-08-23T19:59:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="CreateCard()[pri:8, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:04 IST" name="CreateCard" finished-at="2022-08-23T19:59:05 IST" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateCard -->
+        <test-method is-config="true" signature="setupRequest()[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:04 IST" name="setupRequest" finished-at="2022-08-23T19:59:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupRequest -->
+        <test-method is-config="true" signature="testResult(org.testng.ITestResult)[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:05 IST" name="testResult" finished-at="2022-08-23T19:59:05 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CreateCard status=SUCCESS method=TrelloCard.CreateCard()[pri:8, instance:com.Trello.TrelloCard@4d098f9b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResult -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:05 IST" name="startTest" finished-at="2022-08-23T19:59:05 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Trello.TrelloCard.GetCard() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="GetCard()[pri:9, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:05 IST" name="GetCard" finished-at="2022-08-23T19:59:06 IST" duration-ms="603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetCard -->
+        <test-method is-config="true" signature="setupRequest()[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:05 IST" name="setupRequest" finished-at="2022-08-23T19:59:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupRequest -->
+        <test-method is-config="true" signature="testResult(org.testng.ITestResult)[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:06 IST" name="testResult" finished-at="2022-08-23T19:59:06 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=GetCard status=SUCCESS method=TrelloCard.GetCard()[pri:9, instance:com.Trello.TrelloCard@4d098f9b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResult -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:06 IST" name="startTest" finished-at="2022-08-23T19:59:06 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Trello.TrelloCard.UpdateCard_NegativeScenario() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="setupRequest()[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:06 IST" name="setupRequest" finished-at="2022-08-23T19:59:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupRequest -->
+        <test-method signature="UpdateCard_NegativeScenario()[pri:10, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:06 IST" name="UpdateCard_NegativeScenario" finished-at="2022-08-23T19:59:06 IST" duration-ms="662" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [This is my first Trello Board] but found []]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [This is my first Trello Board] but found []
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.Trello.TrelloCard.UpdateCard_NegativeScenario(TrelloCard.java:86)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateCard_NegativeScenario -->
+        <test-method is-config="true" signature="testResult(org.testng.ITestResult)[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:06 IST" name="testResult" finished-at="2022-08-23T19:59:06 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UpdateCard_NegativeScenario status=FAILURE method=TrelloCard.UpdateCard_NegativeScenario()[pri:10, instance:com.Trello.TrelloCard@4d098f9b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResult -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:06 IST" name="startTest" finished-at="2022-08-23T19:59:06 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Trello.TrelloCard.UpdateCard() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="setupRequest()[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:06 IST" name="setupRequest" finished-at="2022-08-23T19:59:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupRequest -->
+        <test-method signature="UpdateCard()[pri:11, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:06 IST" name="UpdateCard" finished-at="2022-08-23T19:59:07 IST" duration-ms="649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateCard -->
+        <test-method is-config="true" signature="testResult(org.testng.ITestResult)[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:07 IST" name="testResult" finished-at="2022-08-23T19:59:07 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UpdateCard status=SUCCESS method=TrelloCard.UpdateCard()[pri:11, instance:com.Trello.TrelloCard@4d098f9b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResult -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:07 IST" name="startTest" finished-at="2022-08-23T19:59:07 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Trello.TrelloCard.DeleteCard() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="DeleteCard()[pri:12, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:07 IST" name="DeleteCard" finished-at="2022-08-23T19:59:07 IST" duration-ms="639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteCard -->
+        <test-method is-config="true" signature="setupRequest()[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:07 IST" name="setupRequest" finished-at="2022-08-23T19:59:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupRequest -->
+        <test-method is-config="true" signature="testResult(org.testng.ITestResult)[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:07 IST" name="testResult" finished-at="2022-08-23T19:59:07 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DeleteCard status=SUCCESS method=TrelloCard.DeleteCard()[pri:12, instance:com.Trello.TrelloCard@4d098f9b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResult -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:07 IST" name="startTest" finished-at="2022-08-23T19:59:07 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Trello.TrelloCard.DeleteBoard() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="DeleteBoard()[pri:13, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:07 IST" name="DeleteBoard" finished-at="2022-08-23T19:59:09 IST" duration-ms="1017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteBoard -->
+        <test-method is-config="true" signature="setupRequest()[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:07 IST" name="setupRequest" finished-at="2022-08-23T19:59:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupRequest -->
+        <test-method is-config="true" signature="testResult(org.testng.ITestResult)[pri:0, instance:com.Trello.TrelloCard@4d098f9b]" started-at="2022-08-23T19:59:09 IST" name="testResult" finished-at="2022-08-23T19:59:09 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DeleteBoard status=SUCCESS method=TrelloCard.DeleteBoard()[pri:13, instance:com.Trello.TrelloCard@4d098f9b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResult -->
+      </class> <!-- com.Trello.TrelloCard -->
+      <class name="com.Trello.TrelloList">
+        <test-method signature="createList_NegativeScenario()[pri:5, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:02 IST" name="createList_NegativeScenario" finished-at="2022-08-23T19:59:02 IST" duration-ms="599" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[1 expectation failed.
+Expected status code <200> but was <404>.
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: 1 expectation failed.
+Expected status code <200> but was <404>.
+
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+at org.codehaus.groovy.reflection.CachedConstructor.doConstructorInvoke(CachedConstructor.java:60)
+at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrap.callConstructor(ConstructorSite.java:86)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
+at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
+at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)
+at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+at com.Trello.TrelloList.createList_NegativeScenario(TrelloList.java:49)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createList_NegativeScenario -->
+        <test-method is-config="true" signature="setupRequest()[pri:0, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:02 IST" name="setupRequest" finished-at="2022-08-23T19:59:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupRequest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:02 IST" name="startTest" finished-at="2022-08-23T19:59:02 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Trello.TrelloList.createList_NegativeScenario()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:02 IST" name="setupTest" finished-at="2022-08-23T19:59:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method is-config="true" signature="testResult(org.testng.ITestResult)[pri:0, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:02 IST" name="testResult" finished-at="2022-08-23T19:59:02 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createList_NegativeScenario status=FAILURE method=TrelloList.createList_NegativeScenario()[pri:5, instance:com.Trello.TrelloList@36676c1a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResult -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:02 IST" name="startTest" finished-at="2022-08-23T19:59:02 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Trello.TrelloList.createList()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="createList()[pri:6, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:02 IST" name="createList" finished-at="2022-08-23T19:59:03 IST" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createList -->
+        <test-method is-config="true" signature="setupRequest()[pri:0, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:02 IST" name="setupRequest" finished-at="2022-08-23T19:59:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupRequest -->
+        <test-method is-config="true" signature="testResult(org.testng.ITestResult)[pri:0, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:03 IST" name="testResult" finished-at="2022-08-23T19:59:03 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createList status=SUCCESS method=TrelloList.createList()[pri:6, instance:com.Trello.TrelloList@36676c1a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResult -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:03 IST" name="startTest" finished-at="2022-08-23T19:59:03 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Trello.TrelloList.GetList()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="GetList()[pri:7, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:03 IST" name="GetList" finished-at="2022-08-23T19:59:04 IST" duration-ms="602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetList -->
+        <test-method is-config="true" signature="setupRequest()[pri:0, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:03 IST" name="setupRequest" finished-at="2022-08-23T19:59:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupRequest -->
+        <test-method is-config="true" signature="testResult(org.testng.ITestResult)[pri:0, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:04 IST" name="testResult" finished-at="2022-08-23T19:59:04 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=GetList status=SUCCESS method=TrelloList.GetList()[pri:7, instance:com.Trello.TrelloList@36676c1a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResult -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:04 IST" name="startTest" finished-at="2022-08-23T19:59:04 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Trello.TrelloList.updateList()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="updateList()[pri:12, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:04 IST" name="updateList" finished-at="2022-08-23T19:59:04 IST" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateList -->
+        <test-method is-config="true" signature="setupRequest()[pri:0, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:04 IST" name="setupRequest" finished-at="2022-08-23T19:59:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupRequest -->
+        <test-method is-config="true" signature="testResult(org.testng.ITestResult)[pri:0, instance:com.Trello.TrelloList@36676c1a]" started-at="2022-08-23T19:59:04 IST" name="testResult" finished-at="2022-08-23T19:59:04 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=updateList status=SUCCESS method=TrelloList.updateList()[pri:12, instance:com.Trello.TrelloList@36676c1a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResult -->
+      </class> <!-- com.Trello.TrelloList -->
+      <class name="com.Trello.TrelloBoard">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:58:57 IST" name="init" finished-at="2022-08-23T19:58:58 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:58:58 IST" name="setupTest" finished-at="2022-08-23T19:58:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:58:58 IST" name="startTest" finished-at="2022-08-23T19:58:58 IST" duration-ms="386" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Trello.TrelloBoard.CreateBoard() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="setupRequest()[pri:0, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:58:58 IST" name="setupRequest" finished-at="2022-08-23T19:58:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupRequest -->
+        <test-method signature="CreateBoard()[pri:1, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:58:58 IST" name="CreateBoard" finished-at="2022-08-23T19:59:00 IST" duration-ms="1909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateBoard -->
+        <test-method is-config="true" signature="testResult(org.testng.ITestResult)[pri:0, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:59:00 IST" name="testResult" finished-at="2022-08-23T19:59:00 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CreateBoard status=SUCCESS method=TrelloBoard.CreateBoard()[pri:1, instance:com.Trello.TrelloBoard@a5b0b86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResult -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:59:00 IST" name="startTest" finished-at="2022-08-23T19:59:00 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Trello.TrelloBoard.GetBoard() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="GetBoard()[pri:2, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:59:00 IST" name="GetBoard" finished-at="2022-08-23T19:59:01 IST" duration-ms="642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetBoard -->
+        <test-method is-config="true" signature="setupRequest()[pri:0, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:59:00 IST" name="setupRequest" finished-at="2022-08-23T19:59:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupRequest -->
+        <test-method is-config="true" signature="testResult(org.testng.ITestResult)[pri:0, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:59:01 IST" name="testResult" finished-at="2022-08-23T19:59:01 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=GetBoard status=SUCCESS method=TrelloBoard.GetBoard()[pri:2, instance:com.Trello.TrelloBoard@a5b0b86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResult -->
+        <test-method signature="UpdateBoard()[pri:3, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:59:01 IST" name="UpdateBoard" finished-at="2022-08-23T19:59:01 IST" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateBoard -->
+        <test-method is-config="true" signature="setupRequest()[pri:0, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:59:01 IST" name="setupRequest" finished-at="2022-08-23T19:59:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupRequest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:59:01 IST" name="startTest" finished-at="2022-08-23T19:59:01 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Trello.TrelloBoard.UpdateBoard() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:59:01 IST" name="startTest" finished-at="2022-08-23T19:59:01 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Trello.TrelloBoard.DeleteBoard_NegativeScenario() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="testResult(org.testng.ITestResult)[pri:0, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:59:01 IST" name="testResult" finished-at="2022-08-23T19:59:01 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UpdateBoard status=SUCCESS method=TrelloBoard.UpdateBoard()[pri:3, instance:com.Trello.TrelloBoard@a5b0b86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResult -->
+        <test-method is-config="true" signature="setupRequest()[pri:0, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:59:01 IST" name="setupRequest" finished-at="2022-08-23T19:59:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupRequest -->
+        <test-method signature="DeleteBoard_NegativeScenario()[pri:4, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:59:01 IST" name="DeleteBoard_NegativeScenario" finished-at="2022-08-23T19:59:02 IST" duration-ms="523" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[1 expectation failed.
+Expected status code <200> but was <404>.
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: 1 expectation failed.
+Expected status code <200> but was <404>.
+
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:73)
+at org.codehaus.groovy.reflection.CachedConstructor.doConstructorInvoke(CachedConstructor.java:60)
+at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrap.callConstructor(ConstructorSite.java:86)
+at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallConstructor(CallSiteArray.java:58)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:263)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:512)
+at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+at io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:198)
+at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:62)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
+at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
+at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)
+at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+at com.Trello.TrelloBoard.DeleteBoard_NegativeScenario(TrelloBoard.java:92)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteBoard_NegativeScenario -->
+        <test-method is-config="true" signature="testResult(org.testng.ITestResult)[pri:0, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:59:02 IST" name="testResult" finished-at="2022-08-23T19:59:02 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DeleteBoard_NegativeScenario status=FAILURE method=TrelloBoard.DeleteBoard_NegativeScenario()[pri:4, instance:com.Trello.TrelloBoard@a5b0b86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResult -->
+        <test-method is-config="true" signature="reportFlush()[pri:0, instance:com.Trello.TrelloBoard@a5b0b86]" started-at="2022-08-23T19:59:09 IST" name="reportFlush" finished-at="2022-08-23T19:59:09 IST" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportFlush -->
+      </class> <!-- com.Trello.TrelloBoard -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

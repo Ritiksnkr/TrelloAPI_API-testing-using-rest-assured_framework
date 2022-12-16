@@ -1,0 +1,4 @@
+com\Trello\TrelloBoard.class
+com\Trello\TrelloCard.class
+com\base\BaseClass.class
+com\Trello\TrelloList.class
